@@ -44,4 +44,4 @@ ng serve --open
 
 ---
 
-## 🚀 Feito por Nicolas Rossetto
+## 🚀 Feito por Gabriel Zaniqueli Beltrame
